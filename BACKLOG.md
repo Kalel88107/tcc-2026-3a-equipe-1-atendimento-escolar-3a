@@ -1,5 +1,4 @@
-# Backlog do MVP — Sistema de Gestão Educacional do CEMI
-
+# Backlog do MVP — Atendimento Escolar do CEMI CRUZEIRO
 > Este arquivo é o resumo fixo do projeto.
 > O backlog semanal vivo fica nas **Issues** do repositório.
 
